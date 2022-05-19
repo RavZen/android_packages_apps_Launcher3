@@ -68,7 +68,6 @@ else
   LOCAL_SDK_VERSION := system_current
   LOCAL_MIN_SDK_VERSION := 26
 endif
-<<<<<<< HEAD
 LOCAL_PACKAGE_NAME := Launcher3QuickStep
 LOCAL_CERTIFICATE := platform
 LOCAL_PRIVILEGED_MODULE := true
